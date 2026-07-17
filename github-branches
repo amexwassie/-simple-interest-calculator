@@ -1,0 +1,6 @@
+Aragawwassie@BR-S63 MINGW64 ~/simple-interest-calculator (main)
+$ git branch -a -v
+* main                e5f6g7h [behind 1] Add simple-interest.sh script
+  bug-fix-typo        a1b2c3d Fix calculation logic typo
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main e5f6g7h Add simple-interest.sh script
