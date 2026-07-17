@@ -1,5 +1,3 @@
-curl -s https://api.github.com/repos/amexwassie/mcino-Introduction-to-Git-and-GitHub
-
 {
   "id": 55432198,
   "node_id": "MDEwOlJlcG9zaXRvcnk1NTQzMjE5OA==",
