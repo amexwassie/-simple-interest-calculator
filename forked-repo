@@ -1,0 +1,24 @@
+curl -s https://api.github.com/repos/amexwassie/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 55432198,
+  "node_id": "MDEwOlJlcG9zaXRvcnk1NTQzMjE5OA==",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "amexwassie/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/amexwassie/mcino-Introduction-to-Git-and-GitHub",
+  "parent": {
+    "id": 45392011,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 45392011,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
