@@ -1,0 +1,38 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+
+{
+  "id": 123456789,
+  "number": 1,
+  "state": "open",
+  "title": "Revert bug-fix-typo",
+  "user": {
+    "login": "amexwassie",
+    "id": 55432198
+  },
+  "head": {
+    "label": "amexwassie:main",
+    "ref": "main",
+    "sha": "e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4",
+    "user": {
+      "login": "amexwassie"
+    },
+    "repo": {
+      "id": 55432198,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "amexwassie/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/amexwassie/mcino-Introduction-to-Git-and-GitHub"
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "user": {
+      "login": "ibm-developer-skills-network"
+    },
+    "repo": {
+      "id": 45392011,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
