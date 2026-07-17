@@ -2,6 +2,8 @@
 
 First off, thank you for taking the time to contribute! It's people like you who make this a great tool for everyone.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before getting started.
 
 ---
@@ -27,7 +29,7 @@ If you want to write code to fix a bug or add a feature, please follow these ste
 1.  **Fork** the repository to your own GitHub account.
 2.  **Clone** your fork locally:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/simple-interest-calculator.git](https://github.com/YOUR-USERNAME/simple-interest-calculator.git)
+    git clone [https://github.com/amexwassie/simple-interest-calculator.git](https://github.com/amexwassie/simple-interest-calculator.git)
     ```
 3.  Create a new branch for your work:
     ```bash
